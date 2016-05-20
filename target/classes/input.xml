@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<purchaseOrderType>
+    <header>
+        <destinationQueue>Test</destinationQueue>
+        <xsltPath>transformation.xsl</xsltPath>
+        <xslTransformClass>com.mss.xslt.XSLTransformation</xslTransformClass>
+        <decoderClass>com.mss.decode.Decode</decoderClass>
+    </header>
+    <items>
+        <item partNum="MTAx">
+            <productName>SGVhZCBzZXQ=</productName>
+            <quantity>Mw==</quantity>
+        </item>
+        <item partNum="MTAy">
+            <productName>SXBob25lNQ==</productName>
+            <quantity>Mg==</quantity>
+        </item>
+        <item partNum="MTAz">
+            <productName>Q2hhcmdlcg==</productName>
+            <quantity>MQ==</quantity>
+        </item>
+    </items>
+</purchaseOrderType>
